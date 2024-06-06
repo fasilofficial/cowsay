@@ -1,7 +1,6 @@
 # Cowsay
 
-Cowsay is a simple Go program that prints ASCII art of a cow, stegosaurus, cat, or dog based on user input.
-
+Cowsay is a simple Go program that prints ASCII art of a cow, stegosaurus, cat, or dog based on user input. It uses the fortune package to generate random texts, so make sure you have installed in first.
 ## Usage
 
 1. Clone the repository:
