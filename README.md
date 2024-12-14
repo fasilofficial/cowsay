@@ -19,6 +19,11 @@ or to change figure
 fortune | go run main.go -f cat
 ```
 
+## Available figures
+cat
+dog
+stegosaurus
+
 ## Screenshots
 ![image](https://github.com/fasilofficial/cowsay/assets/83868023/bbd7dd4c-e8e1-44b2-ac5f-2e0814845150)
 
